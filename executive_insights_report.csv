@@ -1,0 +1,177 @@
+Scope,Category,Metric,Top_Performer,Top_Value,Lowest_Performer,Lowest_Value
+Global,Traffic Source,Website_Sessions,Organic Search,749878.0,Paid Social Media,2556.79
+Global,Platform,Website_Sessions,Google Ads,55481.11,X,1229.22
+Global,Campaign Category,Website_Sessions,Paid Search,33347.5,Paid Social Media,2556.79
+Global,Campaign Type,Website_Sessions,"Brand Keywords (Prada, Miu Miu)",60023.5,Influencer/KOL Discussion,736.0
+Global,Traffic Source,Returning_Customer_Ratio (%),SMS,88.59,Paid Social Media,43.11
+Global,Platform,Returning_Customer_Ratio (%),SMS,88.59,TikTok,28.47
+Global,Campaign Category,Returning_Customer_Ratio (%),SMS,88.59,Paid Social Media,43.11
+Global,Campaign Type,Returning_Customer_Ratio (%),Back-in-Stock Alert,100.0,Influencer/KOL (Celebrity),20.11
+Global,Traffic Source,CAC ($),Paid Search,5895.9,SMS,3949.79
+Global,Platform,CAC ($),X,6237.52,SMS,3949.79
+Global,Campaign Category,CAC ($),Paid Search,5895.9,SMS,3949.79
+Global,Campaign Type,CAC ($),Influencer/KOL Discussion,7215.71,Cart Abandonment Alert,3949.79
+Global,Traffic Source,CLV ($),SMS,4285.29,Paid Search,2324.99
+Global,Platform,CLV ($),SMS,4285.29,TikTok,1751.04
+Global,Campaign Category,CLV ($),SMS,4285.29,Paid Search,2324.99
+Global,Campaign Type,CLV ($),Back-in-Stock Alert,4652.89,Influencer/KOL (Viral/Trend),117.53
+Global,Traffic Source,Bounce_Rate (%),Paid Social Media,55.0,Direct,34.97
+Global,Platform,Bounce_Rate (%),YouTube,55.47,Email,41.87
+Global,Campaign Category,Bounce_Rate (%),Paid Social Media,55.0,Email,41.87
+Global,Campaign Type,Bounce_Rate (%),Brand Awareness (Editorial/Runway),55.86,Newsletter / Brand Story,41.69
+Global,Traffic Source,Cart_Abandonment_Rate (%),Paid Social Media,90.13,SMS,83.29
+Global,Platform,Cart_Abandonment_Rate (%),X,94.54,Google Ads,82.51
+Global,Campaign Category,Cart_Abandonment_Rate (%),Paid Social Media,90.13,SMS,83.29
+Global,Campaign Type,Cart_Abandonment_Rate (%),Brand Awareness (Behind the scenes),100.0,Product Highlight (Short-form),82.15
+Global,Traffic Source,AOV ($),Direct,593.35,Paid Social Media,524.66
+Global,Platform,AOV ($),SMS,591.15,YouTube,520.42
+Global,Campaign Category,AOV ($),SMS,591.15,Paid Social Media,524.66
+Global,Campaign Type,AOV ($),Cart Abandonment Alert,594.65,Influencer/KOL (Viral/Trend),518.97
+Global,Traffic Source,Conversion_Rate (%),SMS,3.13,Paid Search,0.44
+Global,Platform,Conversion_Rate (%),SMS,3.13,Google Ads,0.38
+Global,Campaign Category,Conversion_Rate (%),SMS,3.13,Paid Search,0.44
+Global,Campaign Type,Conversion_Rate (%),Back-in-Stock Alert,4.08,Competitor Conquesting,0.01
+Global,Traffic Source,CTR (%),SMS,8.06,Paid Social Media,2.37
+Global,Platform,CTR (%),SMS,8.06,X,2.32
+Global,Campaign Category,CTR (%),SMS,8.06,Paid Social Media,2.37
+Global,Campaign Type,CTR (%),Cart Abandonment Alert,8.11,Product Launch Announcement,2.3
+Global,Traffic Source,ER (%),Paid Social Media,5.97,Paid Social Media,5.97
+Global,Platform,ER (%),TikTok,8.11,YouTube,5.32
+Global,Campaign Category,ER (%),Paid Social Media,5.97,Paid Social Media,5.97
+Global,Campaign Type,ER (%),Product Highlight (Short-form),8.19,Product Highlight (Detailed Review),5.25
+Global,Traffic Source,Campaign_ROI (%),Email,192933.83,Paid Search,1.0
+Global,Platform,Campaign_ROI (%),Email,192933.83,Google Ads,1.0
+Global,Campaign Category,Campaign_ROI (%),Email,192933.83,Paid Search,1.0
+Global,Campaign Type,Campaign_ROI (%),Cart Abandonment Flow,309268.84,"Brand Keywords (Prada, Miu Miu)",1.0
+APAC,Traffic Source,Website_Sessions,Organic Search,1034216.0,Paid Social Media,3526.38
+APAC,Platform,Website_Sessions,Google Ads,76571.33,X,1674.0
+APAC,Campaign Category,Website_Sessions,Paid Search,46044.5,Paid Social Media,3526.38
+APAC,Campaign Type,Website_Sessions,"Brand Keywords (Prada, Miu Miu)",82735.5,Influencer/KOL Discussion,1058.0
+APAC,Traffic Source,Returning_Customer_Ratio (%),SMS,88.27,Organic Search,44.63
+APAC,Platform,Returning_Customer_Ratio (%),SMS,88.27,TikTok,29.76
+APAC,Campaign Category,Returning_Customer_Ratio (%),SMS,88.27,Paid Social Media,47.09
+APAC,Campaign Type,Returning_Customer_Ratio (%),Back-in-Stock Alert,100.0,"Generic Luxury Keywords (Designer bag, luxury shoes)",20.47
+APAC,Traffic Source,CAC ($),Paid Search,6041.93,SMS,3973.21
+APAC,Platform,CAC ($),X,6336.0,SMS,3973.21
+APAC,Campaign Category,CAC ($),Paid Search,6041.93,SMS,3973.21
+APAC,Campaign Type,CAC ($),Influencer/KOL Discussion,7920.43,Product Highlight (Detailed Review),3912.47
+APAC,Traffic Source,CLV ($),SMS,4284.25,Paid Search,2324.02
+APAC,Platform,CLV ($),SMS,4284.25,TikTok,1731.4
+APAC,Campaign Category,CLV ($),SMS,4284.25,Paid Search,2324.02
+APAC,Campaign Type,CLV ($),Back-in-Stock Alert,4664.37,Influencer/KOL (Viral/Trend),120.65
+APAC,Traffic Source,Bounce_Rate (%),Paid Social Media,54.8,Direct,35.0
+APAC,Platform,Bounce_Rate (%),YouTube,55.42,Email,41.72
+APAC,Campaign Category,Bounce_Rate (%),Paid Social Media,54.8,Email,41.72
+APAC,Campaign Type,Bounce_Rate (%),Product Launch Announcement,57.02,Welcome Series,41.25
+APAC,Traffic Source,Cart_Abandonment_Rate (%),Paid Social Media,89.89,SMS,83.24
+APAC,Platform,Cart_Abandonment_Rate (%),X,94.37,SMS,83.24
+APAC,Campaign Category,Cart_Abandonment_Rate (%),Paid Social Media,89.89,SMS,83.24
+APAC,Campaign Type,Cart_Abandonment_Rate (%),Brand Awareness (Cinematic/Editorial),100.0,Product Highlight (Short-form),81.78
+APAC,Traffic Source,AOV ($),SMS,707.81,Paid Search,625.65
+APAC,Platform,AOV ($),SMS,707.81,Google Ads,610.23
+APAC,Campaign Category,AOV ($),SMS,707.81,Paid Search,625.65
+APAC,Campaign Type,AOV ($),VIP Event Invitation,718.08,Competitor Conquesting,562.68
+APAC,Traffic Source,Conversion_Rate (%),SMS,3.59,Paid Search,0.5
+APAC,Platform,Conversion_Rate (%),SMS,3.59,Google Ads,0.45
+APAC,Campaign Category,Conversion_Rate (%),SMS,3.59,Paid Search,0.5
+APAC,Campaign Type,Conversion_Rate (%),Back-in-Stock Alert,4.73,Competitor Conquesting,0.01
+APAC,Traffic Source,CTR (%),SMS,8.06,Paid Social Media,2.35
+APAC,Platform,CTR (%),SMS,8.06,TikTok,2.33
+APAC,Campaign Category,CTR (%),SMS,8.06,Paid Social Media,2.35
+APAC,Campaign Type,CTR (%),Flash Sale / Price Drop Alert,8.25,Product Launch Announcement,2.28
+APAC,Traffic Source,ER (%),Paid Social Media,5.98,Paid Social Media,5.98
+APAC,Platform,ER (%),TikTok,8.13,YouTube,5.28
+APAC,Campaign Category,ER (%),Paid Social Media,5.98,Paid Social Media,5.98
+APAC,Campaign Type,ER (%),Brand Awareness (Behind the scenes),8.26,Influencer/KOL (Long-form/Vlog),5.2
+APAC,Traffic Source,Campaign_ROI (%),Email,227088.16,Paid Search,1.0
+APAC,Platform,Campaign_ROI (%),Email,227088.16,Google Ads,1.0
+APAC,Campaign Category,Campaign_ROI (%),Email,227088.16,Paid Search,1.0
+APAC,Campaign Type,Campaign_ROI (%),Cart Abandonment Flow,338278.13,"Brand Keywords (Prada, Miu Miu)",1.0
+Europe,Traffic Source,Website_Sessions,Organic Search,698525.0,Paid Social Media,2377.62
+Europe,Platform,Website_Sessions,Google Ads,51676.0,X,1142.0
+Europe,Campaign Category,Website_Sessions,Paid Search,31032.83,Paid Social Media,2377.62
+Europe,Campaign Type,Website_Sessions,"Brand Keywords (Prada, Miu Miu)",55853.0,Influencer/KOL Discussion,657.0
+Europe,Traffic Source,Returning_Customer_Ratio (%),SMS,88.43,Paid Social Media,41.24
+Europe,Platform,Returning_Customer_Ratio (%),SMS,88.43,TikTok,19.64
+Europe,Campaign Category,Returning_Customer_Ratio (%),SMS,88.43,Paid Social Media,41.24
+Europe,Campaign Type,Returning_Customer_Ratio (%),Back-in-Stock Alert,100.0,Product Highlight (Short-form),19.64
+Europe,Traffic Source,CAC ($),Paid Search,6043.34,SMS,3680.68
+Europe,Platform,CAC ($),Bing Ads,6138.22,SMS,3680.68
+Europe,Campaign Category,CAC ($),Paid Search,6043.34,SMS,3680.68
+Europe,Campaign Type,CAC ($),Influencer/KOL Discussion,7221.58,Product Highlight (Detailed Review),3401.16
+Europe,Traffic Source,CLV ($),SMS,4288.49,Paid Search,2333.05
+Europe,Platform,CLV ($),SMS,4288.49,TikTok,1751.38
+Europe,Campaign Category,CLV ($),SMS,4288.49,Paid Search,2333.05
+Europe,Campaign Type,CLV ($),Back-in-Stock Alert,4649.77,Influencer/KOL (Viral/Trend),111.95
+Europe,Traffic Source,Bounce_Rate (%),Paid Social Media,55.08,Direct,34.89
+Europe,Platform,Bounce_Rate (%),Instagram,55.57,Email,41.85
+Europe,Campaign Category,Bounce_Rate (%),Paid Social Media,55.08,Email,41.85
+Europe,Campaign Type,Bounce_Rate (%),Product Launch Announcement,56.7,VIP Event Invitation,41.4
+Europe,Traffic Source,Cart_Abandonment_Rate (%),Paid Social Media,89.89,SMS,82.56
+Europe,Platform,Cart_Abandonment_Rate (%),X,93.87,SMS,82.56
+Europe,Campaign Category,Cart_Abandonment_Rate (%),Paid Social Media,89.89,SMS,82.56
+Europe,Campaign Type,Cart_Abandonment_Rate (%),Brand Awareness (Behind the scenes),100.0,Product Highlight (Short-form),78.79
+Europe,Traffic Source,AOV ($),Direct,531.84,Paid Social Media,461.32
+Europe,Platform,AOV ($),SMS,529.61,TikTok,442.06
+Europe,Campaign Category,AOV ($),SMS,529.61,Paid Social Media,461.32
+Europe,Campaign Type,AOV ($),Cart Abandonment Alert,535.98,Influencer/KOL (Viral/Trend),418.04
+Europe,Traffic Source,Conversion_Rate (%),SMS,3.15,Paid Search,0.43
+Europe,Platform,Conversion_Rate (%),SMS,3.15,Google Ads,0.36
+Europe,Campaign Category,Conversion_Rate (%),SMS,3.15,Paid Search,0.43
+Europe,Campaign Type,Conversion_Rate (%),Cart Abandonment Alert,4.06,Competitor Conquesting,0.01
+Europe,Traffic Source,CTR (%),SMS,7.96,Paid Social Media,2.36
+Europe,Platform,CTR (%),SMS,7.96,X,2.29
+Europe,Campaign Category,CTR (%),SMS,7.96,Paid Social Media,2.36
+Europe,Campaign Type,CTR (%),VIP Event Invitation,8.02,Influencer/KOL Discussion,2.23
+Europe,Traffic Source,ER (%),Paid Social Media,5.96,Paid Social Media,5.96
+Europe,Platform,ER (%),TikTok,8.06,X,5.3
+Europe,Campaign Category,ER (%),Paid Social Media,5.96,Paid Social Media,5.96
+Europe,Campaign Type,ER (%),Product Highlight (Short-form),8.35,Influencer/KOL Discussion,5.14
+Europe,Traffic Source,Campaign_ROI (%),Email,173895.2,Paid Social Media,742.77
+Europe,Platform,Campaign_ROI (%),Email,173895.2,Instagram,635.83
+Europe,Campaign Category,Campaign_ROI (%),Email,173895.2,Paid Social Media,742.77
+Europe,Campaign Type,Campaign_ROI (%),Cart Abandonment Flow,294711.42,Promo/Giveaway (Limited Drop),584.73
+North America,Traffic Source,Website_Sessions,Organic Search,516893.0,Paid Social Media,1766.38
+North America,Platform,Website_Sessions,Google Ads,38196.0,X,871.67
+North America,Campaign Category,Website_Sessions,Paid Search,22965.17,Paid Social Media,1766.38
+North America,Campaign Type,Website_Sessions,"Brand Keywords (Prada, Miu Miu)",41482.0,Influencer/KOL Discussion,493.0
+North America,Traffic Source,Returning_Customer_Ratio (%),SMS,89.09,Paid Social Media,41.01
+North America,Platform,Returning_Customer_Ratio (%),SMS,89.09,YouTube,33.16
+North America,Campaign Category,Returning_Customer_Ratio (%),SMS,89.09,Paid Social Media,41.01
+North America,Campaign Type,Returning_Customer_Ratio (%),Back-in-Stock Alert,100.0,Influencer/KOL (Celebrity),14.81
+North America,Traffic Source,CAC ($),Paid Search,5602.43,SMS,4195.48
+North America,Platform,CAC ($),X,6801.66,SMS,4195.48
+North America,Campaign Category,CAC ($),Paid Search,5602.43,SMS,4195.48
+North America,Campaign Type,CAC ($),Brand Awareness (Conversation Driven),8051.25,Product Highlight (Short-form),4063.69
+North America,Traffic Source,CLV ($),SMS,4283.13,Paid Search,2317.9
+North America,Platform,CLV ($),SMS,4283.13,TikTok,1770.34
+North America,Campaign Category,CLV ($),SMS,4283.13,Paid Search,2317.9
+North America,Campaign Type,CLV ($),VIP Early Access / Private Sale,4645.64,Influencer/KOL (Viral/Trend),119.98
+North America,Traffic Source,Bounce_Rate (%),Paid Social Media,55.12,Organic Search,34.98
+North America,Platform,Bounce_Rate (%),YouTube,55.84,SMS,42.0
+North America,Campaign Category,Bounce_Rate (%),Paid Social Media,55.12,SMS,42.0
+North America,Campaign Type,Bounce_Rate (%),Influencer/KOL Discussion,59.23,VIP Event Invitation,41.3
+North America,Traffic Source,Cart_Abandonment_Rate (%),Paid Social Media,90.61,Email,83.23
+North America,Platform,Cart_Abandonment_Rate (%),X,95.38,Google Ads,80.1
+North America,Campaign Category,Cart_Abandonment_Rate (%),Paid Social Media,90.61,Email,83.23
+North America,Campaign Type,Cart_Abandonment_Rate (%),Brand Awareness (Cinematic/Editorial),100.0,Product Highlight (Carousel),80.65
+North America,Traffic Source,AOV ($),Direct,541.08,Paid Social Media,485.74
+North America,Platform,AOV ($),SMS,536.03,YouTube,464.75
+North America,Campaign Category,AOV ($),SMS,536.03,Paid Social Media,485.74
+North America,Campaign Type,AOV ($),Flash Sale / Price Drop Alert,539.59,Product Highlight (Detailed Review),456.91
+North America,Traffic Source,Conversion_Rate (%),SMS,2.65,Paid Search,0.37
+North America,Platform,Conversion_Rate (%),SMS,2.65,Google Ads,0.33
+North America,Campaign Category,Conversion_Rate (%),SMS,2.65,Paid Search,0.37
+North America,Campaign Type,Conversion_Rate (%),Cart Abandonment Alert,3.59,Competitor Conquesting,0.02
+North America,Traffic Source,CTR (%),SMS,8.16,Paid Social Media,2.38
+North America,Platform,CTR (%),SMS,8.16,X,2.34
+North America,Campaign Category,CTR (%),SMS,8.16,Paid Social Media,2.38
+North America,Campaign Type,CTR (%),VIP Event Invitation,8.47,Influencer/KOL Discussion,2.31
+North America,Traffic Source,ER (%),Paid Social Media,5.97,Paid Social Media,5.97
+North America,Platform,ER (%),TikTok,8.15,Instagram,5.3
+North America,Campaign Category,ER (%),Paid Social Media,5.97,Paid Social Media,5.97
+North America,Campaign Type,ER (%),Influencer/KOL (Viral/Trend),8.27,Product Highlight (Detailed Review),4.96
+North America,Traffic Source,Campaign_ROI (%),Email,177818.12,Paid Social Media,768.65
+North America,Platform,Campaign_ROI (%),Email,177818.12,YouTube,545.89
+North America,Campaign Category,Campaign_ROI (%),Email,177818.12,Paid Social Media,768.65
+North America,Campaign Type,Campaign_ROI (%),Cart Abandonment Flow,294816.97,Product Highlight (Detailed Review),325.84
